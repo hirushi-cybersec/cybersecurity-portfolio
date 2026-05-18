@@ -27,3 +27,6 @@ It also tells you what is missing if the password is weak.
 ```bash
 cd password-strength-checker
 python password_checker.py
+
+### Output Screenshot
+![Password Checker Output](password-strength-checker/screenshot.png)
