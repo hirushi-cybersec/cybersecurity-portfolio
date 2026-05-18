@@ -22,18 +22,41 @@ Each project is organized in its own folder with code and documentation. I updat
 ## 🔐 Project 1: Password Strength Checker
 A Python script that checks how strong a password is based on length, uppercase, lowercase, numbers, and symbols.  
 It also tells you what is missing if the password is weak.
+<br>
+<br>
 
-### Features:
-- Checks for uppercase letters, lowercase letters, numbers, and special symbols
-- Gives a score: *Weak, Medium, Strong*
-- Shows what characters are missing
-- Uses color output in terminal for better readability
+---
 
-### How to Run:
-```bash
-cd password-strength-checker
-python password_checker.py
-```
+### <span style="color:#4CAF50">📝 v1 - Basic Strength Check</span>
+Checks password strength based on:
+- Length
+- Use of uppercase, lowercase, numbers, symbols
+- Common patterns
 
-### Output Screenshot
-![Password Checker Output](password-strength-checker/screenshot.png)
+*What it does:* Returns Weak / Medium / Strong with suggestions for improvement.  
+*Location:* [Open v1 Folder](./password-strength-checker/v1)
+<br>
+<br>
+<br>
+
+---
+
+### <span style="color:#2196F3">📝 v2 - Pwned Check Added</span>
+Upgraded version with *Have I Been Pwned API* integration.
+
+*What it does:* 
+- Everything in v1
+- Checks if your password has appeared in known data breaches
+- Warns you if it’s been leaked before, so you don’t reuse it
+
+*Location:* [Open v2 Folder](./password-strength-checker/v2)
+<br>
+<br>
+<br>
+
+---
+
+### <span style="color:#4CAF50">📝 v3 - comming soon</span>
+
+---
+
