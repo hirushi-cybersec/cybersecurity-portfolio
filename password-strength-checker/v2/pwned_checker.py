@@ -27,3 +27,5 @@ if count>0:
 else:
     print("not found in breaches")
 exit()
+print("\nPress Enter to exit...")
+input()
