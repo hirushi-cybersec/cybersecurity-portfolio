@@ -1,3 +1,5 @@
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/hirushi-karunasingha-a0375a409/) | [Email](mailto:hirushikarunasingha6@gmail.com)
 <div align="center">
   
 # Cybersecurity Portfolio
