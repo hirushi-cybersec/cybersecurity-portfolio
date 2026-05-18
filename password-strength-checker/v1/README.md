@@ -30,7 +30,7 @@ Built for my first cybersecurity project to practice Python + basic security con
 ```
 <h2 align="center">📸 Example Output</h2>
 <div align="center">
-  <img src="example.png" alt="Output Screenshot" width="650"/>
+   <img src="./screenshot.png" alt="Output Screenshot" width="650"/>
 </div>
 <div align="center">
 
