@@ -1,6 +1,10 @@
 ## 🔗 Connect with me
 [LinkedIn](https://www.linkedin.com/in/hirushi-karunasingha-a0375a409/) | [Email](mailto:hirushikarunasingha6@gmail.com)
 <div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
   
 # Cybersecurity Portfolio
 ### My Learning Projects in Cybersecurity
