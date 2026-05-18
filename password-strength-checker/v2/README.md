@@ -16,6 +16,8 @@
 - *Detailed Feedback*: Shows how many times password was found in breaches
 - *CLI Interface*: Simple command line tool, no GUI needed
 
+<br>
+
 ---
 
 #### ▶️ How to Run:
@@ -23,6 +25,10 @@
 pip install requests
 python pwned_checker.py
 ```
+<br>
+📸 Program Output
+
+![V2 Checker Output](output.png)
 ---
 
 #### 📌 Location:
